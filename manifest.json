@@ -1,0 +1,15 @@
+{
+  "name": "HX711 Waage",
+  "version": "1.0.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/aWendelgass/HX711-ESP32-Simple-Scale/main/Testcode_HX711_Waage.ino.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
